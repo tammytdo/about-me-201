@@ -8,7 +8,7 @@ i want to see if they match my quirky fact
 if they say im cool, say something nice
 or else ...
 
-
+test comment
 */
 var username, quirkyfact, amICool;
 
